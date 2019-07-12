@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OSRSCombatCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OSRSCombatCalculator_jar</output-path>
+    <root id="archive" name="OSRSCombatCalculator.jar">
+      <element id="module-output" name="OSRSCombatCalculator" />
+    </root>
+  </artifact>
+</component>
